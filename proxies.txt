@@ -1,0 +1,2 @@
+Put proxies here
+General format from providers is ip:port:user:pass
